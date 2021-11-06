@@ -6,3 +6,6 @@ fixing bug 2
 
 
 finxing bug 3
+
+
+fixing bug 
